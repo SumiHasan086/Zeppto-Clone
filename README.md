@@ -1,4 +1,4 @@
 # Zeppto-Clone
-#Live Deemo 
+# Live Demo :
 ## https://zeppto-clone-with-responsive.netlify.app/
 
